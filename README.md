@@ -24,7 +24,7 @@ clients for non-HTML buffers.
 
 _simple-httpd_ can be installed through MELPA or directly from GitHub.
 
- * http://melpa.milkbox.net/
+ * https://melpa.org/
  * https://github.com/skeeto/emacs-http-server
 
 _htmlize_ is also available through MELPA.
